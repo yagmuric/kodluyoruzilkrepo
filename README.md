@@ -28,3 +28,19 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+# Kodluyoruz İlk Repo
+
+Bu benim ilk GitHub repo denemem. Burada Markdown formatında yazıyorum.
+
+## Projemizin Görseli
+
+![Proje Resmi](proje-resmi.png)
+
+## Alt Başlık
+
+- Madde 1
+- Madde 2
+
+**Kalın yazı** ve *italik yazı* örneği.
+
