@@ -35,7 +35,8 @@ Bu benim ilk GitHub repo denemem. Burada Markdown formatında yazıyorum.
 
 ## Projemizin Görseli
 
-![Proje Resmi](proje-resmi.png)
+![Proje Resmi](resim.png)
+
 
 ## Alt Başlık
 
